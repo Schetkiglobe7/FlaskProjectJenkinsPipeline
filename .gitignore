@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Pip requiremets file
+requiremets.txt
+
 # C extensions
 *.so
 
